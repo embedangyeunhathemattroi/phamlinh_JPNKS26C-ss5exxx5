@@ -1,0 +1,64 @@
+/* b1:thiết lập thông số chung */
+*{ 
+    font-family: "Open Sans";
+    font-size: 25px;
+    
+    /* sdung màu đen nma là màu tiệm cận dưới  */
+  }
+  
+  .excercise06 h3{
+    font-size: 35px;
+
+}
+.excercise06 .syntax {
+    background-color:#e2e2e2;
+    color :rgb(246, 64, 64);
+
+}
+.excercise06 .demo-figure{
+    border: 3px solid green;
+    text-align: center;
+    line-height: 4;
+}
+
+.excercise06 .demo-code{
+   background-color: #e5e9ed;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+.demo-code h4{
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+
+.demo-code .code-content{
+    background-color: white;
+   border-left: 6px solid green;
+   padding: 15px;
+}
+
+.code-content p:nth-child(1){
+    margin-top: 1;
+}
+
+.code-content p:nth-child(4){
+    margin-bottom: 0;   
+}
+
+.code-content p:nth-child(2){
+    margin-left: 20px;   
+}
+
+.code-content p:nth-child(3){
+    margin-right: 20px;
+}
+
+.code-button{
+    margin-top: 20px;
+    border-radius: 5px;
+    
+}
+
